@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 #       𖣯 Alex(ei) 𖣯
 
-Master's student in Computer Science at ULB, interested in:
+Master's student in Computer Science Engineering at ULB, interested in:
 
 - Cryptography
 - Cybersecurity
