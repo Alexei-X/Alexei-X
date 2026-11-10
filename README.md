@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 Master's student in Computer Science at ULB, interested in:
 
-- 🔐 Cryptography
-- 🛡️ Cybersecurity
-- ⚡ Computer Architecture & Systems
-- 🧮 Applied Mathematics
+- Cryptography
+- Cybersecurity
+- Computer Architecture & Systems
+- Applied Mathematics
 
 ---
 
@@ -49,17 +49,3 @@ My main interests include modern cryptography, cryptanalysis, post-quantum crypt
 - SageMath
 
 ---
-
-## Areas of Interest
-
-```text
-Cryptography
-│
-├─ Hash Functions
-├─ Cryptanalysis
-├─ Post-Quantum Cryptography
-
-Computer Systems
-│
-├─ Parallel Computing
-└─ Operating Systems
