@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Alex(ei)
+#       𖣯 Alex(ei) 𖣯
 
 Master's student in Computer Science at ULB, interested in:
 
