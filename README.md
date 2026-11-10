@@ -31,21 +31,3 @@ I'm currently pursuing a Master's degree in Computer Science and Engineering.
 My main interests include modern cryptography, cryptanalysis, post-quantum cryptography, quantum information/computation. I enjoy both theoretical research and practical implementation.
 
 ---
-
-## Tech Stack
-
-### Languages
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Tools
-
-- Linux
-- Git
-- Neovim
-- LaTeX
-- SageMath
-
----
